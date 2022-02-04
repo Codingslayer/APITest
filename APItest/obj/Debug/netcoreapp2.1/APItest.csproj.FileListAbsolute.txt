@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\APItest\APItest\bin\Debug\netcoreapp2.1\APItest.deps.json
+C:\Users\ACER\source\repos\APItest\APItest\bin\Debug\netcoreapp2.1\APItest.runtimeconfig.json
+C:\Users\ACER\source\repos\APItest\APItest\bin\Debug\netcoreapp2.1\APItest.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\APItest\APItest\bin\Debug\netcoreapp2.1\APItest.dll
+C:\Users\ACER\source\repos\APItest\APItest\obj\Debug\netcoreapp2.1\APItest.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\APItest\APItest\obj\Debug\netcoreapp2.1\APItest.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\APItest\APItest\obj\Debug\netcoreapp2.1\APItest.RazorAssemblyInfo.cache
+C:\Users\ACER\source\repos\APItest\APItest\obj\Debug\netcoreapp2.1\APItest.RazorAssemblyInfo.cs
+C:\Users\ACER\source\repos\APItest\APItest\obj\Debug\netcoreapp2.1\APItest.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\APItest\APItest\obj\Debug\netcoreapp2.1\APItest.AssemblyInfo.cs
+C:\Users\ACER\source\repos\APItest\APItest\obj\Debug\netcoreapp2.1\APItest.RazorTargetAssemblyInfo.cache
+C:\Users\ACER\source\repos\APItest\APItest\bin\Debug\netcoreapp2.1\APItest.pdb
+C:\Users\ACER\source\repos\APItest\APItest\obj\Debug\netcoreapp2.1\APItest.dll
+C:\Users\ACER\source\repos\APItest\APItest\obj\Debug\netcoreapp2.1\APItest.pdb
